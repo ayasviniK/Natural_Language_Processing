@@ -12,6 +12,7 @@ Basic models (Naive Bayes, Logistic Regression, etc.)
 
 Visualizations (word frequencies, word clouds)
 
+Sentiment Analysis (VADER, TextBlob)
 
 ## Libraries
 
