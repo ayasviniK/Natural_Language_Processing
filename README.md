@@ -6,7 +6,7 @@ This repo contains Jupyter notebooks exploring Natural Language Processing (NLP)
 
 Text preprocessing (tokenization, stopwords, stemming, lemmatization)
 
-Feature extraction (Bag-of-Words, TF-IDF)
+Feature extraction (Bag-of-Words, TF-IDF, PCA)
 
 Basic models (Naive Bayes, Logistic Regression, etc.)
 
